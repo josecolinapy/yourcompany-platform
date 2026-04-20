@@ -17,5 +17,9 @@
         <module>common-crypto</module>
         <module>common-logging</module>
         <module>common-observability</module>
+        <module>common-aop</module>
+        <module>common-jpa</module>
+        <module>common-validation</module>
+        <module>common-security</module>
     </modules>
 </project>

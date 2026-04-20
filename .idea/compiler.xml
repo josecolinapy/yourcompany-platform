@@ -10,7 +10,11 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="common-jpa" />
+        <module name="common-validation" />
+        <module name="common-security" />
         <module name="common-observability" />
+        <module name="common-aop" />
         <module name="common-logging" />
         <module name="common-core" />
         <module name="common-errors" />
@@ -20,11 +24,15 @@
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="common-aop" options="-parameters" />
       <module name="common-core" options="-parameters" />
       <module name="common-crypto" options="-parameters" />
       <module name="common-errors" options="-parameters" />
+      <module name="common-jpa" options="-parameters" />
       <module name="common-logging" options="-parameters" />
       <module name="common-observability" options="-parameters" />
+      <module name="common-security" options="-parameters" />
+      <module name="common-validation" options="-parameters" />
     </option>
   </component>
 </project>

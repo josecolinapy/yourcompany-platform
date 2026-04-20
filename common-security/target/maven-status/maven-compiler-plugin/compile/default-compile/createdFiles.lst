@@ -1,0 +1,5 @@
+com\yourcompany\platform\common\security\evaluator\OwnershipAccessEvaluator.class
+com\yourcompany\platform\common\security\evaluator\TenantAccessEvaluator.class
+com\yourcompany\platform\common\security\support\SecurityContextFacade.class
+com\yourcompany\platform\common\security\model\GrantedPermission.class
+com\yourcompany\platform\common\security\model\AuthenticatedUser.class
