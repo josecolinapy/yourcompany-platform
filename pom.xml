@@ -21,5 +21,6 @@
         <module>common-jpa</module>
         <module>common-validation</module>
         <module>common-security</module>
+        <module>common-web</module>
     </modules>
 </project>

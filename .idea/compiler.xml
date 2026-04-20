@@ -15,6 +15,7 @@
         <module name="common-security" />
         <module name="common-observability" />
         <module name="common-aop" />
+        <module name="common-web" />
         <module name="common-logging" />
         <module name="common-core" />
         <module name="common-errors" />
@@ -33,6 +34,7 @@
       <module name="common-observability" options="-parameters" />
       <module name="common-security" options="-parameters" />
       <module name="common-validation" options="-parameters" />
+      <module name="common-web" options="-parameters" />
     </option>
   </component>
 </project>
