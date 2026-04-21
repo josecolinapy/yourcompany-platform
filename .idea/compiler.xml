@@ -14,13 +14,16 @@
         <module name="common-security" />
         <module name="starter-actuator" />
         <module name="starter-security" />
+        <module name="starter-test" />
         <module name="starter-exception-handler" />
         <module name="common-aop" />
         <module name="common-logging" />
         <module name="common-crypto" />
         <module name="common-jpa" />
         <module name="common-validation" />
+        <module name="common-test" />
         <module name="platform-archetype" />
+        <module name="starter-validation" />
         <module name="common-observability" />
         <module name="common-web" />
         <module name="starter-openapi" />
@@ -42,6 +45,7 @@
       <module name="common-logging" options="-parameters" />
       <module name="common-observability" options="-parameters" />
       <module name="common-security" options="-parameters" />
+      <module name="common-test" options="-parameters" />
       <module name="common-validation" options="-parameters" />
       <module name="common-web" options="-parameters" />
       <module name="orders-service" options="-parameters" />
@@ -49,6 +53,8 @@
       <module name="starter-exception-handler" options="-parameters" />
       <module name="starter-openapi" options="-parameters" />
       <module name="starter-security" options="-parameters" />
+      <module name="starter-test" options="-parameters" />
+      <module name="starter-validation" options="-parameters" />
     </option>
   </component>
 </project>

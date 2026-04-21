@@ -21,9 +21,13 @@
         <module>common-validation</module>
         <module>common-security</module>
         <module>common-web</module>
+        <module>common-test</module>
         <module>starter-openapi</module>
         <module>starter-exception-handler</module>
         <module>starter-actuator</module>
         <module>starter-security</module>
+        <module>starter-test</module>
+        <module>starter-validation</module>
+
     </modules>
 </project>

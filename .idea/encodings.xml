@@ -17,6 +17,8 @@
     <file url="file://$PROJECT_DIR$/common-observability/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/common-security/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/common-security/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/common-test/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/common-test/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/common-validation/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/common-validation/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/common-web/src/main/java" charset="UTF-8" />
@@ -37,6 +39,10 @@
     <file url="file://$PROJECT_DIR$/starter-openapi/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/starter-security/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/starter-security/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/starter-test/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/starter-test/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/starter-validation/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/starter-validation/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/../../../../../Windows/System32/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/../../../../../Windows/System32/src/main/resources" charset="UTF-8" />
   </component>

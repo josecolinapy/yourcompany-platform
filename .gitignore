@@ -22,7 +22,8 @@ replay_pid*
 ._*
 
 # Custom folder icons
-Icon
+Icon
+
 
 # Volume root files
 .DocumentRevisions-V100
@@ -75,3 +76,4 @@ cmake-build-*/
 
 # IntelliJ build output
 out/
+/**/target/

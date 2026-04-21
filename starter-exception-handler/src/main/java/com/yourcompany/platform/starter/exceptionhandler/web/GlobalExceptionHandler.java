@@ -33,8 +33,7 @@ public class GlobalExceptionHandler {
 
     @ExceptionHandler(PlatformException.class)
     public ResponseEntity<ErrorResponse> handlePlatformException(
-            final PlatformException exception,
-            final HttpServletRequest request
+            final PlatformException exception
     ) {
         final HttpStatus status = mapStatus(exception.getErrorCode());
 
