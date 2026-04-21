@@ -22,7 +22,6 @@
         <module name="common-jpa" />
         <module name="common-validation" />
         <module name="common-test" />
-        <module name="platform-archetype" />
         <module name="starter-validation" />
         <module name="common-observability" />
         <module name="common-web" />
@@ -33,6 +32,7 @@
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="orders-service" target="21" />
+      <module name="spring-boot-platform-archetype" target="1.5" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
