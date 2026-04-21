@@ -1,0 +1,3 @@
+com\yourcompany\platform\starter\exceptionhandler\web\GlobalExceptionHandler.class
+com\yourcompany\platform\starter\exceptionhandler\web\GlobalExceptionHandler$1.class
+com\yourcompany\platform\starter\exceptionhandler\autoconfigure\PlatformExceptionHandlerAutoConfiguration.class

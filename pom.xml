@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+    <groupId>com.yourcompany.platform</groupId>
+    <artifactId>platform-archetype</artifactId>
+    <version>1.0.1</version>
+    <packaging>pom</packaging>
+    <name>platform-archetype</name>
+    <description>Plataforma reusable para servicios de spring boot</description>
+    <modules>
+        <module>platform-bom</module>
+        <module>platform-parent</module>
+        <module>common-core</module>
+        <module>common-errors</module>
+        <module>common-crypto</module>
+        <module>common-logging</module>
+        <module>common-observability</module>
+        <module>common-aop</module>
+        <module>common-jpa</module>
+        <module>common-validation</module>
+        <module>common-security</module>
+        <module>common-web</module>
+        <module>common-test</module>
+        <module>starter-openapi</module>
+        <module>starter-exception-handler</module>
+        <module>starter-actuator</module>
+        <module>starter-security</module>
+        <module>starter-test</module>
+        <module>starter-validation</module>
+
+    </modules>
+</project>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/common-aop/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/common-aop/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/common-core/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/common-core/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/common-crypto/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/common-crypto/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/common-errors/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/common-errors/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/common-jpa/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/common-jpa/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/common-logging/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/common-logging/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/common-observability/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/common-observability/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/common-security/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/common-security/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/common-test/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/common-test/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/common-validation/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/common-validation/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/common-web/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/common-web/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/orders-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/orders-service/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/platform-archetype/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/platform-archetype/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/platform-bom/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/platform-bom/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/platform-parent/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/platform-parent/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/starter-actuator/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/starter-actuator/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/starter-exception-handler/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/starter-exception-handler/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/starter-openapi/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/starter-openapi/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/starter-security/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/starter-security/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/starter-test/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/starter-test/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/starter-validation/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/starter-validation/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../../../../../Windows/System32/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../../../../../Windows/System32/src/main/resources" charset="UTF-8" />
+  </component>
+</project>

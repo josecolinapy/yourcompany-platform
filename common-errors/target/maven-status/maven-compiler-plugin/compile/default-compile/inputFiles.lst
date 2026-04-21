@@ -1,0 +1,7 @@
+C:\Users\josec\Documents\GitHub\yourcompany-platform\common-errors\src\main\java\com\yourcompany\platform\common\errors\exception\BusinessException.java
+C:\Users\josec\Documents\GitHub\yourcompany-platform\common-errors\src\main\java\com\yourcompany\platform\common\errors\exception\ConflictException.java
+C:\Users\josec\Documents\GitHub\yourcompany-platform\common-errors\src\main\java\com\yourcompany\platform\common\errors\exception\PlatformException.java
+C:\Users\josec\Documents\GitHub\yourcompany-platform\common-errors\src\main\java\com\yourcompany\platform\common\errors\exception\ResourceNotFoundException.java
+C:\Users\josec\Documents\GitHub\yourcompany-platform\common-errors\src\main\java\com\yourcompany\platform\common\errors\exception\TechnicalException.java
+C:\Users\josec\Documents\GitHub\yourcompany-platform\common-errors\src\main\java\com\yourcompany\platform\common\errors\exception\ValidationException.java
+C:\Users\josec\Documents\GitHub\yourcompany-platform\common-errors\src\main\java\com\yourcompany\platform\common\errors\model\ErrorCode.java
