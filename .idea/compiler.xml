@@ -4,24 +4,33 @@
     <excludeFromCompile>
       <directory url="file://$PROJECT_DIR$/platform-bom/src/main/resources/archetype-resources" includeSubdirectories="true" />
       <directory url="file://$PROJECT_DIR$/platform-parent/src/main/resources/archetype-resources" includeSubdirectories="true" />
+      <directory url="file://$PROJECT_DIR$/platform-archetype/src/main/resources/archetype-resources" includeSubdirectories="true" />
     </excludeFromCompile>
     <annotationProcessing>
       <profile name="Maven default annotation processors profile" enabled="true">
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="common-security" />
+        <module name="starter-actuator" />
+        <module name="starter-security" />
+        <module name="starter-exception-handler" />
+        <module name="common-aop" />
+        <module name="common-logging" />
+        <module name="common-crypto" />
         <module name="common-jpa" />
         <module name="common-validation" />
-        <module name="common-security" />
+        <module name="platform-archetype" />
         <module name="common-observability" />
-        <module name="common-aop" />
         <module name="common-web" />
-        <module name="common-logging" />
+        <module name="starter-openapi" />
         <module name="common-core" />
         <module name="common-errors" />
-        <module name="common-crypto" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="orders-service" target="21" />
+    </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
@@ -35,6 +44,11 @@
       <module name="common-security" options="-parameters" />
       <module name="common-validation" options="-parameters" />
       <module name="common-web" options="-parameters" />
+      <module name="orders-service" options="-parameters" />
+      <module name="starter-actuator" options="-parameters" />
+      <module name="starter-exception-handler" options="-parameters" />
+      <module name="starter-openapi" options="-parameters" />
+      <module name="starter-security" options="-parameters" />
     </option>
   </component>
 </project>
