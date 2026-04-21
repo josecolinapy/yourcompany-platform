@@ -76,6 +76,6 @@ cmake-build-*/
 
 # IntelliJ build output
 out/
-/**/target/
+**/target/
 /.idea/
 /.idea/*
