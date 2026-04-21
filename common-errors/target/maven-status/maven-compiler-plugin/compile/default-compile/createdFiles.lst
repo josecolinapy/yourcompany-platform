@@ -1,7 +1,0 @@
-com\yourcompany\platform\common\errors\model\ErrorCode.class
-com\yourcompany\platform\common\errors\exception\BusinessException.class
-com\yourcompany\platform\common\errors\exception\ConflictException.class
-com\yourcompany\platform\common\errors\exception\TechnicalException.class
-com\yourcompany\platform\common\errors\exception\PlatformException.class
-com\yourcompany\platform\common\errors\exception\ResourceNotFoundException.class
-com\yourcompany\platform\common\errors\exception\ValidationException.class

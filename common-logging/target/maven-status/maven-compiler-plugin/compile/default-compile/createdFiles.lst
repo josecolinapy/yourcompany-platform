@@ -1,3 +1,0 @@
-com\yourcompany\platform\common\logging\constants\LoggingConstants.class
-com\yourcompany\platform\common\logging\support\MdcSupport.class
-com\yourcompany\platform\common\logging\model\CorrelationContext.class
