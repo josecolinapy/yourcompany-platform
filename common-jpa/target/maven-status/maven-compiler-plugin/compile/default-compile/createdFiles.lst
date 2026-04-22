@@ -1,7 +1,0 @@
-com\yourcompany\platform\common\jpa\config\JpaAuditingConfig.class
-com\yourcompany\platform\common\jpa\entity\AuditableEntity.class
-com\yourcompany\platform\common\jpa\entity\SoftDeletableEntity.class
-com\yourcompany\platform\common\pagination\model\PageRequestDto.class
-com\yourcompany\platform\common\jpa\entity\BaseEntity.class
-com\yourcompany\platform\common\pagination\model\PageMetadata.class
-com\yourcompany\platform\common\pagination\model\PageResponseDto.class
