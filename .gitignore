@@ -77,7 +77,7 @@ cmake-build-*/
 # IntelliJ build output
 out/
 **/target/
-/.idea/
+.idea/
 /.idea/*
 common-aop/target
 common-crypto/target
@@ -93,3 +93,4 @@ common-errors/target
 common-security/target
 starter-actuator/target
 starter-openapi/target
+/.idea/
