@@ -94,3 +94,4 @@ common-security/target
 starter-actuator/target
 starter-openapi/target
 /.idea/
+.idea
