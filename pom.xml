@@ -28,6 +28,9 @@
         <module>starter-security</module>
         <module>starter-test</module>
         <module>starter-validation</module>
-
+        <module>starter-rest-client</module>
+        <module>starter-observability</module>
+        <module>starter-aop-observability</module>
+        <module>starter-flyway</module>
     </modules>
 </project>
