@@ -14,7 +14,7 @@
 
     <fileSets>
         <fileSet filtered="true" packaged="false">
-            <directory></directory>
+            <directory/>
             <includes>
                 <include>pom.xml</include>
                 <include>README.md</include>
