@@ -32,5 +32,6 @@
         <module>starter-observability</module>
         <module>starter-aop-observability</module>
         <module>starter-flyway</module>
+        <module>starter-jpa-postgresql</module>
     </modules>
 </project>
