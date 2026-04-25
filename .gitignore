@@ -1,3 +1,19 @@
+### Java
+# Compiled class file
+*.class
+
+# Log file
+*.log
+
+# Package Files
+*.jar
+*.war
+*.ear
+
+# Virtual machine crash logs
+hs_err_pid*
+replay_pid*
+
 ### macOS
 # Finder metadata
 .DS_Store
@@ -61,3 +77,21 @@ cmake-build-*/
 # IntelliJ build output
 out/
 **/target/
+.idea/
+/.idea/*
+common-aop/target
+common-crypto/target
+common-jpa/target
+common-observability/target
+common-validation/target
+common-core/target
+common-logging/target
+common-web/target
+starter-exception-handler/target
+starter-security/target
+common-errors/target
+common-security/target
+starter-actuator/target
+starter-openapi/target
+/.idea/
+.idea
