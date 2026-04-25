@@ -1,0 +1,10 @@
+services:
+  postgres:
+    image: postgres:17
+    container_name: ${serviceName}-postgres
+    environment:
+      POSTGRES_DB: ${artifactId}
+      POSTGRES_USER: ${artifactId}
+      POSTGRES_PASSWORD: ${artifactId}
+    ports:
+      - "5432:5432"

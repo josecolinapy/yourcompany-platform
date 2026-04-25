@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<archetype-descriptor name="platform-archetype">
+    <requiredProperties>
+        <requiredProperty key="groupId"/>
+        <requiredProperty key="artifactId"/>
+        <requiredProperty key="version"/>
+        <requiredProperty key="package"/>
+        <requiredProperty key="basePackage"/>
+        <requiredProperty key="applicationName"/>
+        <requiredProperty key="applicationClassName"/>
+        <requiredProperty key="serviceName"/>
+        <requiredProperty key="platformVersion"/>
+    </requiredProperties>
+
+    <fileSets>
+        <fileSet filtered="true" packaged="false">
+            <directory/>
+            <includes>
+                <include>pom.xml</include>
+                <include>README.md</include>
+                <include>Dockerfile</include>
+                <include>docker-compose.yml</include>
+            </includes>
+        </fileSet>
+
+        <fileSet filtered="true" packaged="true">
+            <directory>src/main/java</directory>
+            <includes>
+                <include>**/*.java</include>
+            </includes>
+        </fileSet>
+
+        <fileSet filtered="true" packaged="false">
+            <directory>src/main/resources</directory>
+            <includes>
+                <include>**/*.yml</include>
+                <include>**/*.xml</include>
+                <include>**/*.sql</include>
+            </includes>
+        </fileSet>
+
+        <fileSet filtered="true" packaged="true">
+            <directory>src/test/java</directory>
+            <includes>
+                <include>**/*.java</include>
+            </includes>
+        </fileSet>
+    </fileSets>
+</archetype-descriptor>
